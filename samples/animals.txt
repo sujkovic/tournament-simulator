@@ -1,0 +1,16 @@
+turtle EAST 1
+cockroach EAST 4
+mongoose EAST 2
+duck EAST 3
+dog WEST 1
+aardvark WEST 4
+snake WEST 2
+caterpillar WEST 3
+bison MIDWEST 1
+zebra MIDWEST 4
+armadillo MIDWEST 2
+hedgehog MIDWEST 3
+cow SOUTH 1
+cat SOUTH 4
+horse SOUTH 2
+kangaroo SOUTH 3
